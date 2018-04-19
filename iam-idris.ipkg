@@ -1,0 +1,5 @@
+package iam-idris
+
+modules = Machine.Types
+
+opts = "-p contrib"
